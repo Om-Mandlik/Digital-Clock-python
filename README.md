@@ -18,7 +18,7 @@ A simple and elegant digital clock application built using **PyQt5**. This deskt
 
 
 **How It Works**
-Uses QTimer to trigger updates every second
-Fetches current time using QTime
-Displays time using a QLabel
-Applies styling with Qt Stylesheets
+- Uses QTimer to trigger updates every second
+- Fetches current time using QTime
+- Displays time using a QLabel
+- Applies styling with Qt Stylesheets
